@@ -8,6 +8,8 @@ toc_footers:
   - <a href='#'>Get in Touch with Blockchain Technologies</a>
   - <a href='#'>Documentation created by Kesholabs Team</a>
 
+  - last update  22nd june 2020
+
 includes:
   - errors
 
